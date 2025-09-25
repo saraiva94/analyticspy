@@ -66,11 +66,6 @@ jupyter notebook
   - Conferir separador (`;` vs `,`).
   - Padronizar tipos (datas, numéricos, categóricos).
 
-## 📊 Métricas sugeridas
-- **EDA**: contagem de nulos, histogramas, boxplots, correlações, segmentações por classe (cancelou vs não cancelou).
-- **Modelagem (opcional)**: baseline com `train_test_split`, **accuracy**, **precision/recall**, **F1**, **ROC-AUC**.
-- **Explainability (opcional)**: feature importance simples (árvore/random forest/logística).
-
 ## 🧱 Boas práticas
 - Manter **seed** fixa para reprodutibilidade.
 - Salvar artefatos (ex.: CSV tratados) em `data/processed/` (se criar a pasta).
@@ -88,8 +83,3 @@ jupyter notebook
 2. Commits descritivos.
 3. Abra um PR explicando o que mudou e por quê.
 
-## 📄 Licença
-Defina a licença (ex.: MIT). Exemplo:
-```
-MIT © 2025 Seu Nome
-```
