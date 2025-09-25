@@ -1,4 +1,4 @@
-# AnalyticSpy
+# AnalyticsPy
 
 Projeto de análise exploratória e modelagem inicial focado em **cancelamentos** (churn), com notebooks em Python e conjunto(s) de dados CSV. A proposta é entregar um pipeline simples e reproduzível para inspeção, limpeza, visualização e primeiros modelos/insights.
 
